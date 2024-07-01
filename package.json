@@ -2,7 +2,7 @@
   "name": "medicaux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Alsa5.github.io/Alsa5.github.io",
+  "homepage": "https://github.com/Alsa5/Alsa5.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
@@ -12,13 +12,13 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "firebase": "^10.12.2",
+    "gh-pages": "^5.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-modal": "^3.16.1",
     "react-router-dom": "^6.24.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "gh-pages": "^5.0.0"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",

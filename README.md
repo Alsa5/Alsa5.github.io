@@ -29,4 +29,5 @@ This project is licensed under the MIT License. See the `LICENSE.md` file for mo
 
 ---
 
-Thank you for your interest in Medicaux. Together, we can make healthcare more accessible and efficient for everyone.
+Thank you for your interest in Medicaux, do check out the static front-end demo of the same. Link to demo: https://alsa5.github.io/
+Together, we can make healthcare more accessible and efficient for everyone.

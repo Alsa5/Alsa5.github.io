@@ -27,7 +27,8 @@ Please note that Medicaux is currently a work in progress. We are continuously w
 ## License
 This project is licensed under the MIT License. See the `LICENSE.md` file for more details.
 
+Thank you for your interest in Medicaux, do check out the static front-end demo of the same. Link to demo: https://alsa5.github.io/
+
 ---
 
--Thank you for your interest in Medicaux, do check out the static front-end demo of the same. Link to demo: https://alsa5.github.io/
--Together, we can make healthcare more accessible and efficient for everyone.
+Together, we can make healthcare more accessible and efficient for everyone.

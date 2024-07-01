@@ -2,7 +2,7 @@
   "name": "medicaux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Alsa5/Alsa5.github.io",
+  "homepage": "https://Alsa5.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
